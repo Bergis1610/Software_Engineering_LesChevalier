@@ -1,1 +1,4 @@
-# Software_Engineering_Project_2_DL_EBB
+# Software_Engineering_LesChevaliers
+
+This is a software engineering portfolio for Les Chevaliers
+Contributors: Denys Ladden, Emil B. Berglund and entreprenuer Mr. Michael F. Brizendine
