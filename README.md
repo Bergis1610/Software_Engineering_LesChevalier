@@ -14,7 +14,8 @@ EMIL WILL DO THIS PART
 - DONE b. short description of each phase
 - DONE d. link to video
 - e. 3-4 paragraph reflection
- <br /> //-------------------------------------------------------------------------------
+ <br /> 
+ //-------------------------------------------------------------------------------
 
 
 Authors:
