@@ -19,8 +19,8 @@ EMIL WILL DO THIS PART
 
 
 ### Authors:
-### Emil Bjørlykke Berglund
-### Denys Ladden
+###### Emil Bjørlykke Berglund
+###### Denys Ladden
 
 This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
 
