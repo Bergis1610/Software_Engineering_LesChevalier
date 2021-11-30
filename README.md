@@ -1,5 +1,8 @@
 # Software Engineering portfolio for LesChevaliers
 
+//-------------------------------------------------------------------------------
+TO BE DELETED
+
 
 YOU NEED TO DO THIS DENYS
 - c. instructions for building/running the container
@@ -7,11 +10,11 @@ YOU NEED TO DO THIS DENYS
 - c. documentation for unit testing
 
 EMIL WILL DO THIS PART
-- a. overview of the project
-- b. short description of each phase
+- DONE a. overview of the project
+- DONE b. short description of each phase
 - DONE d. link to video
 - e. 3-4 paragraph reflection
-
+//-------------------------------------------------------------------------------
 
 
 Authors:
