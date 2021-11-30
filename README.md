@@ -1,5 +1,6 @@
 # Software Engineering portfolio for LesChevaliers
 
+
 YOU NEED TO DO THIS DENYS
 - c. instructions for building/running the container
 - c. documentation of dockerhub
@@ -11,8 +12,13 @@ EMIL WILL DO THIS PART
 - DONE d. link to video
 - e. 3-4 paragraph reflection
 
-a.
-Overview of the project
+
+
+Authors:
+Emil Bjørlykke Berglund
+Denys Ladden
+
+This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies and used this throughout the semester 
 
 
 
@@ -34,6 +40,7 @@ b.
 
 - Phase 4
 
+[Here is the our demonstration video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
 Here is the link to the demonstration video of our prototype: https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703
 
 
