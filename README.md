@@ -34,10 +34,7 @@ b.
 
 - Phase 4
 
-
-
-d.
-Demonstration: 
+Here is the link to the demonstration video of our prototype: https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703
 
 
 e. Reflection
