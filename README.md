@@ -8,7 +8,7 @@ YOU NEED TO DO THIS DENYS
 EMIL WILL DO THIS PART
 - a. overview of the project
 - b. short description of each phase
-DONE    - d. link to video
+DONE d. link to video
 - e. 3-4 paragraph reflection
 
 a.
