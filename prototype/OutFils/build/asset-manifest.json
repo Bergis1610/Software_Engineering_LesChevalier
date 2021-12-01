@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/foodtruckfinder/public/index.html/static/css/main.7ede9342.chunk.css",
+    "main.js": "/foodtruckfinder/public/index.html/static/js/main.223a754b.chunk.js",
+    "main.js.map": "/foodtruckfinder/public/index.html/static/js/main.223a754b.chunk.js.map",
+    "runtime-main.js": "/foodtruckfinder/public/index.html/static/js/runtime-main.49da830f.js",
+    "runtime-main.js.map": "/foodtruckfinder/public/index.html/static/js/runtime-main.49da830f.js.map",
+    "static/css/2.1e2a9ba8.chunk.css": "/foodtruckfinder/public/index.html/static/css/2.1e2a9ba8.chunk.css",
+    "static/js/2.14b50c19.chunk.js": "/foodtruckfinder/public/index.html/static/js/2.14b50c19.chunk.js",
+    "static/js/2.14b50c19.chunk.js.map": "/foodtruckfinder/public/index.html/static/js/2.14b50c19.chunk.js.map",
+    "index.html": "/foodtruckfinder/public/index.html/index.html",
+    "precache-manifest.ce09e0fc1b03104c09eba23ce0d278c2.js": "/foodtruckfinder/public/index.html/precache-manifest.ce09e0fc1b03104c09eba23ce0d278c2.js",
+    "service-worker.js": "/foodtruckfinder/public/index.html/service-worker.js",
+    "static/css/2.1e2a9ba8.chunk.css.map": "/foodtruckfinder/public/index.html/static/css/2.1e2a9ba8.chunk.css.map",
+    "static/css/main.7ede9342.chunk.css.map": "/foodtruckfinder/public/index.html/static/css/main.7ede9342.chunk.css.map",
+    "static/js/2.14b50c19.chunk.js.LICENSE.txt": "/foodtruckfinder/public/index.html/static/js/2.14b50c19.chunk.js.LICENSE.txt",
+    "static/media/directions.png": "/foodtruckfinder/public/index.html/static/media/directions.9f0200ec.png",
+    "static/media/food-truck.png": "/foodtruckfinder/public/index.html/static/media/food-truck.aa49599b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49da830f.js",
+    "static/css/2.1e2a9ba8.chunk.css",
+    "static/js/2.14b50c19.chunk.js",
+    "static/css/main.7ede9342.chunk.css",
+    "static/js/main.223a754b.chunk.js"
+  ]
+}
