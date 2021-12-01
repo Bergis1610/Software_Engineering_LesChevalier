@@ -20,6 +20,11 @@ EMIL WILL DO THIS PART
  //-------------------------------------------------------------------------------
 
 
+### Steps for running docker:
+- 
+
+
+
 ### Authors:
 ***Emil Bjørlykke Berglund*** <br/>
 ***Denys Ladden***
