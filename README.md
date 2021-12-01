@@ -13,7 +13,7 @@ EMIL WILL DO THIS PART
 - [x] a. overview of the project
 - [x] b. short description of each phase
 - [x] d. link to video
-- [ ] e. 3-4 paragraph reflection
+- [x] e. 3-4 paragraph reflection
  <br /> 
  //-------------------------------------------------------------------------------
 
