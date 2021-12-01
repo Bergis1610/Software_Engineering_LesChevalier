@@ -5,7 +5,9 @@
 
 
 YOU NEED TO DO THIS DENYS
-- [ ] c. instructions for building/running the container
+- [ ] c. dockerize + instructions for building/running the container in readme
+- [ ] c. push docker image to dockerhub
+- [ ] c. unit testing. at least 2
 - [ ] c. documentation of dockerhub
 - [ ] c. documentation for unit testing
 
