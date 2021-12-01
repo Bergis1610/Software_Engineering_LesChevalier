@@ -1,6 +1,6 @@
 # Software Engineering portfolio for LesChevaliers
 
-![Alt Text](https://gfycat.com/mixedseveralerin)
+![Alt Text](https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif)
 
 //-------------------------------------------------------------------------------
  <br /> TO BE DELETED
