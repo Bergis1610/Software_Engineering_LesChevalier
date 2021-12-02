@@ -1,19 +1,45 @@
-
+<p align="center">
 # Software Engineering portfolio for LesChevaliers
- <br /> <br />
+</p>
 
 <p align="center">
   <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
 </p>
 
 
- <br /> <br />
+
+
+//-------------------------------------------------------------------------------
+ <br /> TO BE DELETED
+
+
+YOU NEED TO DO THIS DENYS
+- [ ] c. dockerize + instructions for building/running the container in readme
+- [ ] c. push docker image to dockerhub
+- [ ] c. unit testing. at least 2
+- [ ] c. documentation of dockerhub
+- [ ] c. documentation for unit testing
+
+EMIL WILL DO THIS PART
+- [x] a. overview of the project
+- [x] b. short description of each phase
+- [x] d. link to video
+- [x] e. 3-4 paragraph reflection
+ <br /> 
+ //-------------------------------------------------------------------------------
+
+LINKS:
+
+[Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
+
+[Kultura Video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
 
 
 
 
 
-### Steps for running docker:
+
+### Docker Image Repository:
 
 Kaffi server image is pushed Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
 
@@ -31,14 +57,25 @@ docker login
 
 ````
 <br/>
-To push tje prototype_web image to Docker Hub 
+To upload the prototype_web to Docker Hub, the command is used:
 
 ````javascript
 docker tag prototype_web:latest dladden/prototype-kaffi
 ````
+<br/>
+Next using the push command the now built image is pushed to the repository:
 
+````javascript
+docker push dladden/prototype-kaffi 
 
+````
+<br/>
+To pull the image from the repository use command:
 
+````javascript
+docker pull dladden/prototype-kaffi
+
+````
 
 
 ### Authors:
@@ -64,11 +101,9 @@ The last and final phase we worked on making a functioning prototype of the prod
 <p align="center">
   <img src="https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif" />
 </p>
-
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
- <br />
- 
+
 ***Demonstration video*** <br/>
 [Here is the our demonstration video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703) <br />
 
