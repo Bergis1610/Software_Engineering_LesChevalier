@@ -46,15 +46,20 @@ $ cd prototype
 $ npm install
 ```
 Comment: Yarn will install multiple packages at once oposed to npm
+<br /> 
 
-
-####Discrepences:
-After installation of the dependencies module has to be modified in order to deply the application due to version discrepencies which contains in the nude_module. This configuration is done in the `organization.js` resource. Use:
+#### Discrepences:
+After installation of the dependencies module has to be modified in order to deply the application due to version discrepencies which contains in the nude_module. This configuration is done in the `organization.js` resource. Use command:
 ```
-$ cd node_modules/@availity/api-axios/lib/src/resources/organizations.js
+$ cd node_modules/@availity/api-axios/lib/src/resources
 ```
-
-
+<br /> 
+Delete the following code in lines 17 - 21 in the `organization.js` :
+ 
+<p align="center">
+  <img width="100%" src="https://i.ibb.co/FXb5NdL/carbon.png" />
+</p>
+<br /> 
 ### Docker Image Repository:
 
 Kaffi server image is pushed to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
