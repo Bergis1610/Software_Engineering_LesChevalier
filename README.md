@@ -48,7 +48,7 @@ $ npm install
 Comment: Yarn will install multiple packages at once oposed to npm
 <br /> 
 
-#### Discrepences:
+#### Discrepancies:
 After installation of the dependencies module has to be modified in order to deply the application due to version discrepencies which contains in the nude_module. This configuration is done in the `organization.js` resource. Use command:
 ```
 $ cd node_modules/@availity/api-axios/lib/src/resources
