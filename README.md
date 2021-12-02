@@ -1,6 +1,6 @@
-<p align="center">
+
 # Software Engineering portfolio for LesChevaliers
-</p>
+
 
 <p align="center">
   <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
