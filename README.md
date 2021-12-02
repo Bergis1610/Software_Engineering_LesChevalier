@@ -68,6 +68,7 @@ The last and final phase we worked on making a functioning prototype of the prod
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
  <br />
+ 
 ***Demonstration video*** <br/>
 [Here is the our demonstration video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703) <br />
 
