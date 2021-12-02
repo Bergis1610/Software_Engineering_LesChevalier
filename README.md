@@ -1,12 +1,11 @@
-
+<p align="center">
 # Software Engineering portfolio for LesChevaliers
-<br/> <br/>
+</p>
 
 <p align="center">
   <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
 </p>
 
-<br/> <br/>
 
 
 
@@ -31,7 +30,30 @@ EMIL WILL DO THIS PART
 
 
 ### Steps for running docker:
-- 
+
+Kaffi server image is pushed Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
+
+Checking all the docker images in the system, to see the listed prototype_web, use command:
+
+````javascript
+docker images
+
+````
+<br/>
+Take note of the TAG and next loggin into the the Docker Hub using command:
+
+````javascript
+docker login
+
+````
+<br/>
+To push tje prototype_web image to Docker Hub 
+
+````javascript
+docker tag prototype_web:latest dladden/prototype-kaffi
+````
+
+
 
 
 
