@@ -59,7 +59,7 @@ $ cd node_modules/@availity/api-axios/lib/src/resources
 Then delete the following code in lines 17 - 21 in the `organization.js` :
  
 <p align="center">
-  <img width="100%" src="https://i.ibb.co/FXb5NdL/carbon.png" />
+  <img width="100%" src="https://i.postimg.cc/3JwjXpg9/carbon.png" />
 </p>
 <br/> 
 <br/>
