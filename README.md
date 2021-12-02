@@ -1,6 +1,13 @@
+<p align="center">
 # Software Engineering portfolio for LesChevaliers
+</p>
 
-![Alt Text](https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif)
+<p align="center">
+  <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
+</p>
+
+
+
 
 //-------------------------------------------------------------------------------
  <br /> TO BE DELETED
@@ -46,6 +53,10 @@ In the third phase it was almost time to start making the actual product, but fi
 **Phase 4** <br/>
 The last and final phase we worked on making a functioning prototype of the product so that a user could an understanding of the main functions of the product and get a feel of the actual application and gui. We used some unit testing techniques and got a feel for docker to containarize the product for easier running. You may find the code for the prototype in the prototype folder.
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif" />
+</p>
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
 
