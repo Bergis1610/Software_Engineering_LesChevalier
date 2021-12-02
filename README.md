@@ -61,8 +61,9 @@ Then delete the following code in lines 17 - 21 in the `organization.js` :
 <p align="center">
   <img width="100%" src="https://i.ibb.co/FXb5NdL/carbon.png" />
 </p>
-<br /> 
+<br/> 
 <br/>
+
 ### Deplying Application in a Docker Image
 Dockerfile contains all needed instructions for Docker to deploy the image for the application, please run the follwoing command:
 ```
@@ -119,7 +120,9 @@ $ npm test
 
 <br/><br/><br/>
 
-
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif" />
+</p>
 **Phase 1** <br/>
 There were 4 phases of this project, in the first phase we had to come up with our software idea and then creat an actual physical box. This box was supposed to resemble a product that you could buy in a regular store. We also created a journal describing our ideas for functions, names and whom are target customers could be. The pictures of our box as well as the journal can be found in the design_documents folder by clicking on the several box pictures and the journal under the name: [Software Engineering Assignment 1.pdf](https://github.com/Bergis1610/Software_Engineering_LesChevalier/blob/main/design_documents/Software%20Engineering%20Assignment%201.pdf)
 
@@ -133,9 +136,6 @@ In the third phase it was almost time to start making the actual product, but fi
 The last and final phase we worked on making a functioning prototype of the product so that a user could an understanding of the main functions of the product and get a feel of the actual application and gui. We used some unit testing techniques and got a feel for docker to containarize the product for easier running. You may find the code for the prototype in the prototype folder.
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4jGewt5B0aMlhYtdXD/giphy.gif" />
-</p>
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
 <br /> 
