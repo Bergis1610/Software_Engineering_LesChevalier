@@ -28,8 +28,8 @@
 <br /> 
 
 ## Synopsis
-PWA server prototype application, with steps to install and deploy Dockerized React Kaffi Application .
-
+#### PWA server prototype application, with steps to install and deploy Dockerized React Kaffi Application .
+<br/>
 ***Overview*** <br/>
 This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
 <br/>
@@ -136,8 +136,9 @@ Comments: Dockerfile contains all needed
 
 ## Testing
 #### Unit Testing 
-Unit testing has become a requirement for any develooper. Testing is a task of the developer now in every environment of programing and has to be incorporated accordingly. The general testing engine used by this project consists of jest and react-test-renderer.
-You can run the tests by using the following command:
+Unit testing has become a requirement for all developers in the industry. Testing is a task of the developer now in every environment of programing and has to be incorporated accordingly. The general testing engine used by this project consists of jest and react-test-renderer. Jest is a JavaScript testing framework maintained by Facebook and React provides the React Testing Library, which if not present in the node_modules can be installed: `npm install --save-dev @testing-library/react`
+
+The following command runs tests to all .test files in the project:
 ```
 $ npm test
 ```
@@ -146,6 +147,12 @@ In order to test the application the `App.test.js` is created which alows React 
 <p align="center">
   <img width="100%" src="https://i.postimg.cc/QNFYDRzj/carbon02.png" />
 </p>
+
+#### Resolving Dependencies Isues
+<p align="center">
+  <img width="100%" src="https://i.postimg.cc/kX7dBbFG/Screen-Shot-2021-12-02-at-11-05-52-AM.png" />
+</p>
+
 
 
 <br/><br/>
