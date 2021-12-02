@@ -28,11 +28,14 @@
 <br /> 
 
 ## Synopsis
-PWA prototype application with steps to make a Dokerized React application.
+PWA server prototype application, with steps to install and deply Dokerized React Kaffi Application .
+
+***Overview*** <br/>
+This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
 
 ### Development
-To start development, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and React:
-Check if these are installed with:
+To start development of kaffi, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and `docker` to build this React application. Check the versions and if these are installed with commands: ` node -v`, `npm -v`, `yarn -v`, as well as `docker -v`
+<br /> 
 
 ```
 $ git clone https://github.com/rherwig/template-react-ssr.git
@@ -80,10 +83,13 @@ To pull the image from the repository use command:
 docker pull dladden/prototype-kaffi
 
 ````
+## Testing
+The general testing engine used by this project consists of jest and react-test-renderer.
+You can run the tests by using the following command:
+```
+$ npm test
+```
 
-
-***Overview*** <br/>
-This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
 
 **Phase 1** <br/>
 There were 4 phases of this project, in the first phase we had to come up with our software idea and then creat an actual physical box. This box was supposed to resemble a product that you could buy in a regular store. We also created a journal describing our ideas for functions, names and whom are target customers could be. The pictures of our box as well as the journal can be found in the design_documents folder by clicking on the several box pictures and the journal under the name: [Software Engineering Assignment 1.pdf](https://github.com/Bergis1610/Software_Engineering_LesChevalier/blob/main/design_documents/Software%20Engineering%20Assignment%201.pdf)
