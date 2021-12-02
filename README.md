@@ -11,9 +11,9 @@
 # Software Engineering portfolio for LesChevaliers
 
 
-## Authors:
-### Denys Ladden
-### Emil Bjørlykke Berglund
+### Authors:
+#### Denys Ladden
+#### Emil Bjørlykke Berglund
 
 
 <br /> 
@@ -28,7 +28,7 @@
 <br /> 
 
 ## Synopsis
-PWA server prototype application, with steps to install and deply Dokerized React Kaffi Application .
+PWA server prototype application, with steps to install and deploy Dockerized React Kaffi Application .
 
 ***Overview*** <br/>
 This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
@@ -37,6 +37,8 @@ This is a school project we were assigned at Bellarmine University in our Softwa
 ## Development
 To start development of kaffi, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and `docker` to build this React application. Check the versions and if these are installed with commands: ` node -v`, `npm -v`, `yarn -v`, as well as `docker -v`
 <br /> 
+
+Commands for 
 
 ```
 $ git clone https://github.com/rherwig/template-react-ssr.git
@@ -49,7 +51,7 @@ $ npm start
 
 ### Docker Image Repository:
 
-Kaffi server image is pushed Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
+Kaffi server image is pushed to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
 
 Checking all the docker images in the system, to see the listed prototype_web, use command:
 
@@ -58,7 +60,7 @@ docker images
 
 ````
 <br/>
-Take note of the TAG and next loggin into the the Docker Hub using command:
+Take note of the TAG and next log in into the the Docker Hub using command:
 
 ````javascript
 docker login
@@ -90,6 +92,8 @@ You can run the tests by using the following command:
 ```
 $ npm test
 ```
+
+<br/><br/><br/>
 
 
 **Phase 1** <br/>
