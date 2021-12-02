@@ -33,6 +33,7 @@ PWA server prototype application, with steps to install and deploy Dockerized Re
 ***Overview*** <br/>
 This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
 <br/>
+<br /> 
 
 ## Development
 To start development of kaffi, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and `docker` to build this React application. Check the versions and if these are installed with commands: ` node -v`, `npm -v`, `yarn -v`, as well as `docker -v`
@@ -44,6 +45,7 @@ To begin development use the following commands in the directory of cloned file:
 $ git clone https://github.com/Bergis1610/Software_Engineering_LesChevaliers/tree/main/prototype
 $ cd prototype
 $ npm install
+$ yarn start
 ```
 Comment: Yarn will install multiple packages at once oposed to npm
 <br /> 
@@ -53,14 +55,19 @@ After installation of the dependencies module has to be modified in order to dep
 ```
 $ cd node_modules/@availity/api-axios/lib/src/resources
 ```
-<br /> 
 
-Delete the following code in lines 17 - 21 in the `organization.js` :
+Then delete the following code in lines 17 - 21 in the `organization.js` :
  
 <p align="center">
   <img width="100%" src="https://i.ibb.co/FXb5NdL/carbon.png" />
 </p>
 <br /> 
+<br/>
+### Deplying Application in a Docker Image
+Dockerfile contains all needed instructions for Docker to deploy the image for the application, please run the follwoing command:
+```
+docker-compose -f docker-compose.yml up
+```
 
 ### Docker Image Repository:
 
@@ -99,6 +106,10 @@ To pull the image from the repository use command:
 docker pull dladden/prototype-kaffi
 
 ````
+<br/>
+Comments: Dockerfile contains all needed 
+
+
 ## Testing
 The general testing engine used by this project consists of jest and react-test-renderer.
 You can run the tests by using the following command:
