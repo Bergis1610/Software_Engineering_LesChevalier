@@ -13,7 +13,7 @@
 <br /> 
 <br /> 
 
-## LINKS:
+### LINKS:
 
 [Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
 
@@ -24,7 +24,7 @@
 ## Synopsis
 PWA prototype application with steps to make a Dokerized React application.
 
-## Development
+### Development
 To start development, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and React:
 Check if these are installed with:
 
