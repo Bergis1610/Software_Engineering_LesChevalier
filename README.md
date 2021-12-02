@@ -121,6 +121,7 @@ Comments: Dockerfile contains all needed
 
 
 ## Testing
+#### Unit Testing 
 Unit testing has become a requirement for any develooper. Testing is a task of the developer now in every envioremnt of programing and has to be incoporated acordingly. The general testing engine used by this project consists of jest and react-test-renderer.
 You can run the tests by using the following command:
 ```
