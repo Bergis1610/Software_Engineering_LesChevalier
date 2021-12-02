@@ -141,7 +141,11 @@ You can run the tests by using the following command:
 ```
 $ npm test
 ```
-
+### Testing the `App.js`
+In order to test the application the `App.test.js` is created which alows React to run the test with the `npm test` command. To test if the Application is stable React has a built in unit test for rendring without crashing. 
+<p align="center">
+  <img width="100%" src="https://i.postimg.cc/QNFYDRzj/carbon02.png" />
+</p>
 
 
 <br/><br/>
