@@ -23,7 +23,7 @@
 
 [Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
 
-[Project Intro Video (Kultura)](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
+[Prototype showcase video (Kaltura)](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
 
 <br /> 
 
@@ -64,8 +64,8 @@ Then delete the following code in lines 17 - 21 in the `organization.js` :
 <br/> 
 <br/>
 
-## Local Server Deplyment
-For local server deplyoment run the following command:
+## Local Server Deployment
+For local server deployoment run the following command:
 ```
 $ yarn start
 ```
@@ -81,7 +81,9 @@ docker-compose -f docker-compose.yml up
 
 ## Docker Image Repository:
 
-Kaffi server image is pushed to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
+Kaffi server image is pushed to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web. Please note that step 1 through 4 are for pushing a docker image to dockerhub and step 5 is for pulling it.
+
+**Step 1**
 
 Checking all the docker images in the system, to see the listed prototype_web, use command:
 
@@ -90,6 +92,9 @@ docker images
 
 ````
 <br/>
+
+**Step 2**
+
 Take note of the TAG and next log in into the the Docker Hub using command:
 
 ````javascript
@@ -97,12 +102,18 @@ docker login
 
 ````
 <br/>
+
+**Step 3**
+
 To upload the prototype_web to Docker Hub, the command is used:
 
 ````javascript
 docker tag prototype_web:latest dladden/prototype-kaffi
 ````
 <br/>
+
+**Step 4**
+
 Next using the push command the now built image is pushed to the repository:
 
 ````javascript
@@ -110,6 +121,9 @@ docker push dladden/prototype-kaffi
 
 ````
 <br/>
+
+**Step 5**
+
 To pull the image from the repository use command:
 
 ````javascript
