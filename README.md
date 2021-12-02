@@ -60,6 +60,7 @@ Delete the following code in lines 17 - 21 in the `organization.js` :
   <img width="100%" src="https://i.ibb.co/FXb5NdL/carbon.png" />
 </p>
 <br /> 
+
 ### Docker Image Repository:
 
 Kaffi server image is pushed to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
@@ -125,6 +126,7 @@ The last and final phase we worked on making a functioning prototype of the prod
 </p>
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
+<br /> 
 <br /> 
 
 ***Demonstration video*** <br/>
