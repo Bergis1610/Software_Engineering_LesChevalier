@@ -1,32 +1,16 @@
 
 # Software Engineering portfolio for LesChevaliers
-
+ <br /> <br />
 
 <p align="center">
   <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
 </p>
 
 
+ <br /> <br />
 
 
-//-------------------------------------------------------------------------------
- <br /> TO BE DELETED
 
-
-YOU NEED TO DO THIS DENYS
-- [ ] c. dockerize + instructions for building/running the container in readme
-- [ ] c. push docker image to dockerhub
-- [ ] c. unit testing. at least 2
-- [ ] c. documentation of dockerhub
-- [ ] c. documentation for unit testing
-
-EMIL WILL DO THIS PART
-- [x] a. overview of the project
-- [x] b. short description of each phase
-- [x] d. link to video
-- [x] e. 3-4 paragraph reflection
- <br /> 
- //-------------------------------------------------------------------------------
 
 
 ### Steps for running docker:
