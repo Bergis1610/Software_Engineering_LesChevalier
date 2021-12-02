@@ -44,12 +44,15 @@ To begin development use the following commands in the directory of cloned file:
 $ git clone https://github.com/Bergis1610/Software_Engineering_LesChevaliers/tree/main/prototype
 $ cd prototype
 $ npm install
-$ yarn start
 ```
 Comment: Yarn will install multiple packages at once oposed to npm
 
-Discrepences:
-Durring contains the nude_module file and need configuration to 
+
+####Discrepences:
+After installation of the dependencies module has to be modified in order to deply the application due to version discrepencies which contains in the nude_module. This configuration is done in the `organization.js` resource. Use:
+```
+$ cd node_modules/@availity/api-axios/lib/src/resources/organizations.js
+```
 
 
 ### Docker Image Repository:
