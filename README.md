@@ -150,8 +150,9 @@ In order to test the application the `App.test.js` is created which alows React 
 
 <br/><br/>
 
-Below you may find a gif of the prototype in action.
 
+
+<h1 align="center">Prototype in Action</h1>
 <br/>
 
 <p align="center">
