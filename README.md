@@ -69,13 +69,14 @@ For local server deployoment run the following command:
 ```
 $ yarn start
 ```
-Check Localhost:3000
+Check Localhost:3000 at http://localhost:3000/
 
 ### Deploying Application in a Docker Image
 Dockerfile contains all needed instructions for Docker to deploy the image for the application, please run the following command:
 ```
 docker-compose -f docker-compose.yml up
 ```
+Then check Localhost:3000 at http://localhost:3000/
 <br/>
 <br/>
 
@@ -147,6 +148,9 @@ In order to test the application the `App.test.js` is created which alows React 
 <p align="center">
   <img width="100%" src="https://i.postimg.cc/QNFYDRzj/carbon02.png" />
 </p>
+
+The React Testing Library is a testing framework for React components. It provides light utility functions on top of react-dom and react-dom/test-utils, to encourages better testing practices. Next testing is implimented on the FindMeButton. In order to test a component to access it `id` should be implemented so that `<div data-testid="FindMeButton">`
+
 
 #### Resolving Dependencies Isues
 <p align="center">
