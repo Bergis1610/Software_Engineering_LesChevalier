@@ -32,8 +32,9 @@ PWA server prototype application, with steps to install and deply Dokerized Reac
 
 ***Overview*** <br/>
 This is a school project we were assigned at Bellarmine University in our Software engineering (CS-400) class. It's our final portfolio of a project we have been working on since the beginning of the semester. We have learned a lot about different software development and engineering principles as well as methodologies in the lectures and we have used this throughout the semester to work on our very own software development project.
+<br/>
 
-### Development
+## Development
 To start development of kaffi, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and `docker` to build this React application. Check the versions and if these are installed with commands: ` node -v`, `npm -v`, `yarn -v`, as well as `docker -v`
 <br /> 
 
