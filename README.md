@@ -13,7 +13,7 @@
 <br /> 
 <br /> 
 
-##LINKS:
+## LINKS:
 
 [Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
 
@@ -21,7 +21,7 @@
 
 <br /> 
 
-##Synopsis
+## Synopsis
 PWA prototype application with steps to make a Dokerized React application.
 
 ## Development
