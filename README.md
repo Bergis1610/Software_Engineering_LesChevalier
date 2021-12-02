@@ -19,7 +19,7 @@
 <br /> 
 <br /> 
 
-### LINKS:
+#### LINKS:
 
 [Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
 
@@ -38,15 +38,18 @@ This is a school project we were assigned at Bellarmine University in our Softwa
 To start development of kaffi, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and `docker` to build this React application. Check the versions and if these are installed with commands: ` node -v`, `npm -v`, `yarn -v`, as well as `docker -v`
 <br /> 
 
-Commands for 
+To begin development use the following commands in the directory of cloned file:
 
 ```
-$ git clone https://github.com/rherwig/template-react-ssr.git
-$ cd template-react-ssr
-$ npm i
-$ npm start
+$ git clone https://github.com/Bergis1610/Software_Engineering_LesChevaliers/tree/main/prototype
+$ cd prototype
+$ npm install
+$ yarn start
 ```
+Comment: Yarn will install multiple packages at once oposed to npm
 
+Discrepences:
+Durring contains the nude_module file and need configuration to 
 
 
 ### Docker Image Repository:
