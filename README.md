@@ -1,32 +1,17 @@
-<p align="center">
-# Software Engineering portfolio for LesChevaliers
-</p>
+
+<br /> <br /> 
 
 <p align="center">
   <img src="https://i.ibb.co/Z8XhgQN/KAFFi01-01.png" />
 </p>
 
+<br /> 
+<br /> 
 
+# Software Engineering portfolio for LesChevaliers
 
-
-//-------------------------------------------------------------------------------
- <br /> TO BE DELETED
-
-
-YOU NEED TO DO THIS DENYS
-- [ ] c. dockerize + instructions for building/running the container in readme
-- [ ] c. push docker image to dockerhub
-- [ ] c. unit testing. at least 2
-- [ ] c. documentation of dockerhub
-- [ ] c. documentation for unit testing
-
-EMIL WILL DO THIS PART
-- [x] a. overview of the project
-- [x] b. short description of each phase
-- [x] d. link to video
-- [x] e. 3-4 paragraph reflection
- <br /> 
- //-------------------------------------------------------------------------------
+<br /> 
+<br /> 
 
 LINKS:
 
@@ -34,7 +19,7 @@ LINKS:
 
 [Kultura Video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
 
-
+<br /> 
 
 
 
@@ -103,6 +88,7 @@ The last and final phase we worked on making a functioning prototype of the prod
 </p>
 Note: The prototype provided is not a complete application as it was all we managed to get done in the time granted to us, however, we are planning on working more on it in the future, so there might be updates to come.
 
+<br /> 
 
 ***Demonstration video*** <br/>
 [Here is the our demonstration video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703) <br />
