@@ -13,14 +13,27 @@
 <br /> 
 <br /> 
 
-LINKS:
+##LINKS:
 
 [Docker Repository](https://hub.docker.com/repository/docker/dladden/prototype-kaffi)
 
-[Kultura Video](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
+[Project Intro Video (Kultura)](https://video.bellarmine.edu/media/Kaffi-video/1_6le1czmp/232612703)
 
 <br /> 
 
+##Synopsis
+PWA prototype application with steps to make a Dokerized React application.
+
+## Development
+To start development, the system must have prerequisites such as Node.js, Javascript Package Managers `npm` and `yarn`, and React:
+Check if these are installed with:
+
+```
+$ git clone https://github.com/rherwig/template-react-ssr.git
+$ cd template-react-ssr
+$ npm i
+$ npm start
+```
 
 
 
