@@ -54,6 +54,7 @@ After installation of the dependencies module has to be modified in order to dep
 $ cd node_modules/@availity/api-axios/lib/src/resources
 ```
 <br /> 
+
 Delete the following code in lines 17 - 21 in the `organization.js` :
  
 <p align="center">
